@@ -1,0 +1,147 @@
+Aufgabe 2: Freier Fall eines Körpers
+
+Für den freien Fall gilt:
+
+y = y0 + v0 t + 1/2 a t^2
+
+Hier:
+
+
+
+
+
+
+
+
+Damit:
+
+y = 20 - 5t^2
+
+
+---
+
+a) Höhe nach 
+
+Rechnung
+
+y = 20 - 5(1)^2
+
+y = 20 - 5 = 15\,m
+
+Antwort:
+
+
+
+---
+
+b) Zeitpunkt bei 
+
+10 = 20 - 5t^2
+
+5t^2 = 10
+
+t^2 = 2
+
+t = \sqrt{2}
+
+t \approx 1.41\,s
+
+Antwort:
+
+
+
+---
+
+c) Fallzeit bis zum Boden
+
+Boden: 
+
+0 = 20 - 5t^2
+
+5t^2 = 20
+
+t^2 = 4
+
+t = 2\,s
+
+Antwort:
+
+
+
+---
+
+d) Geschwindigkeit bei 
+
+Formel:
+
+v = v_0 + at
+
+v = 0 - 10 \cdot 1
+
+v = -10\,m/s
+
+Antwort:
+
+
+
+---
+
+e) Zeitpunkt bei 
+
+-15 = -10t
+
+t = 1.5\,s
+
+Antwort:
+
+
+
+---
+
+f) Geschwindigkeit beim Aufprall
+
+Zeit aus c): 
+
+v = -10 \cdot 2
+
+v = -20\,m/s
+
+Antwort:
+
+
+
+---
+
+Aufgabe 3: Verformung eines Autos
+
+Gleiche Verformung ⇒ gleiche Aufprallgeschwindigkeit.
+
+Formel:
+
+v^2 = 2gh
+
+Gegeben:
+
+v = 90\,km/h = 25\,m/s
+
+
+---
+
+Rechnung
+
+h = \frac{v^2}{2g}
+
+h = \frac{25^2}{2 \cdot 10}
+
+h = \frac{625}{20}
+
+h = 31.25\,m
+
+
+---
+
+✅ Antwort:
+
+h \approx 31.3\,m
+
+Das Auto müsste also aus etwa 31 m Höhe fallen.
